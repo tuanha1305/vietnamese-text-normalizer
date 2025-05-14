@@ -1,2 +1,2 @@
 
-vietnamese>=1.0.0
+vietnamese>=0.0.8
