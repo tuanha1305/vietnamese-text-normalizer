@@ -74,4 +74,4 @@ Script sẽ kiểm tra và báo lỗi trong các trường hợp sau:
 
 ## Liên hệ
 
-Nếu bạn gặp vấn đề hoặc có câu hỏi, vui lòng tạo issue trên repository hoặc liên hệ qua email: example@example.com
+Nếu bạn gặp vấn đề hoặc có câu hỏi, vui lòng tạo issue trên repository hoặc liên hệ qua email: tuanictu97@gmail.com
